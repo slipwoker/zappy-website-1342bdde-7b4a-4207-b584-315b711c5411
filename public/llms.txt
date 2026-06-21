@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://liem-bakes-1342bdde.zappy5.app
+https://example.com
 מחפשים מאפייה לידכם עם עוגיות ועוגות בעבודת יד? ב-Liem Bakes תגלו פינוקים מפנקים בניחוח ביתי שיעשו לכם את היום. בקרו אותנו לחוויית טעם מתוקה!
 
 ### חגיגות
-https://liem-bakes-1342bdde.zappy5.app/celebrations
+https://example.com/celebrations
 חוגגים יום הולדת או אירוע מיוחד? גלו את מבחר העוגות והעוגיות המותאמות אישית שלנו, כולל אופציות ללא גלוטן, שיהפכו כל חגיגה לבלתי נשכחת. הזמינו עכשיו!
 
 ### אודות
-https://liem-bakes-1342bdde.zappy5.app/about
+https://example.com/about
 הכירו את Liem Bakes – מאפייה שכונתית עם תשוקה לקינוחים ביתיים. מהעוגיות בסגנון לבאין ועד באבקה עשירה, כל מתכון נולד מאהבה. בואו לשמוע את הסיפור שלנו.
 
 ### צור קשר
-https://liem-bakes-1342bdde.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה או בקשה מיוחדת? צרו קשר עם Liem Bakes עוד היום! אנחנו כאן כדי לעזור לכם למצוא את המאפה המושלם, כולל אפשרויות ללא גלוטן. נשמח לשמוע מכם.
 
 ### Products
-https://liem-bakes-1342bdde.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Liem Bakes
 
 ### Cart
-https://liem-bakes-1342bdde.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://liem-bakes-1342bdde.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://liem-bakes-1342bdde.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://liem-bakes-1342bdde.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://liem-bakes-1342bdde.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://liem-bakes-1342bdde.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Liem Bakes
 
 ### Category
-https://liem-bakes-1342bdde.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Liem Bakes
 
 ### תודה שפניתם אלינו
-https://liem-bakes-1342bdde.zappy5.app/thank-you
+https://example.com/thank-you
 Liem Bakes - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://liem-bakes-1342bdde.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://liem-bakes-1342bdde.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://liem-bakes-1342bdde.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://liem-bakes-1342bdde.zappy5.app/sitemap.xml
-- Robots: https://liem-bakes-1342bdde.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://liem-bakes-1342bdde.zappy5.app/llms-full.txt
-- Products (JSON): https://liem-bakes-1342bdde.zappy5.app/products.json
-- Products (Google Merchant RSS): https://liem-bakes-1342bdde.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
