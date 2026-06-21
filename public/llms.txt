@@ -1,0 +1,109 @@
+# Liem Bakes — Generative Engine Optimization Map
+
+> A bakery business specializing in cookies and cakes, offering sweet baked goods to customers. The brand revolves around homemade-style or artisan baked treats, with a warm and inviting atmosphere centered around the joy of baking and indulgent desserts.
+
+---
+
+## Pages
+
+### בית
+https://liem-bakes-1342bdde.zappy5.app
+מחפשים מאפייה לידכם עם עוגיות ועוגות בעבודת יד? ב-Liem Bakes תגלו פינוקים מפנקים בניחוח ביתי שיעשו לכם את היום. בקרו אותנו לחוויית טעם מתוקה!
+
+### חגיגות
+https://liem-bakes-1342bdde.zappy5.app/celebrations
+חוגגים יום הולדת או אירוע מיוחד? גלו את מבחר העוגות והעוגיות המותאמות אישית שלנו, כולל אופציות ללא גלוטן, שיהפכו כל חגיגה לבלתי נשכחת. הזמינו עכשיו!
+
+### אודות
+https://liem-bakes-1342bdde.zappy5.app/about
+הכירו את Liem Bakes – מאפייה שכונתית עם תשוקה לקינוחים ביתיים. מהעוגיות בסגנון לבאין ועד באבקה עשירה, כל מתכון נולד מאהבה. בואו לשמוע את הסיפור שלנו.
+
+### צור קשר
+https://liem-bakes-1342bdde.zappy5.app/contact
+יש לכם שאלה או בקשה מיוחדת? צרו קשר עם Liem Bakes עוד היום! אנחנו כאן כדי לעזור לכם למצוא את המאפה המושלם, כולל אפשרויות ללא גלוטן. נשמח לשמוע מכם.
+
+### Products
+https://liem-bakes-1342bdde.zappy5.app/products
+המוצרים שלנו - Liem Bakes
+
+### Cart
+https://liem-bakes-1342bdde.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://liem-bakes-1342bdde.zappy5.app/checkout
+תשלום
+
+### Login
+https://liem-bakes-1342bdde.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://liem-bakes-1342bdde.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://liem-bakes-1342bdde.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://liem-bakes-1342bdde.zappy5.app/product/:slug
+פרטי המוצר - Liem Bakes
+
+### Category
+https://liem-bakes-1342bdde.zappy5.app/category/:slug
+מוצרים - Liem Bakes
+
+### תודה שפניתם אלינו
+https://liem-bakes-1342bdde.zappy5.app/thank-you
+Liem Bakes - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://liem-bakes-1342bdde.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://liem-bakes-1342bdde.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://liem-bakes-1342bdde.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Liem Bakes
+A bakery business specializing in cookies and cakes, offering sweet baked goods to customers. The brand revolves around homemade-style or artisan baked treats, with a warm and inviting atmosphere centered around the joy of baking and indulgent desserts.
+
+## Services/Products
+- עוגיות
+- עוגות
+
+## Target Audience
+- הורים צעירים לאירועים מיוחדים
+- מתכנני אירועים עסקיים
+- חובבי בריאות
+- אוהבי מתוקים
+
+## Industry
+Bakery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://liem-bakes-1342bdde.zappy5.app/sitemap.xml
+- Robots: https://liem-bakes-1342bdde.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://liem-bakes-1342bdde.zappy5.app/llms-full.txt
+- Products (JSON): https://liem-bakes-1342bdde.zappy5.app/products.json
+- Products (Google Merchant RSS): https://liem-bakes-1342bdde.zappy5.app/product-feed.xml
